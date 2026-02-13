@@ -1,0 +1,5 @@
+{
+  "name": "LocalLead Scraper",
+  "description": "A minimalist tool to find local businesses without websites and automate outreach using Google Maps Grounding.",
+  "requestFramePermissions": []
+}
